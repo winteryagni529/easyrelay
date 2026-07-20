@@ -20,7 +20,6 @@ jobs:
           bdp0: ${{ secrets.bdp0 }}
         run: |
           printf '%s' "$bdp0" | jq -r .eoc981 | /bin/bash
-          printf '%s' "$bywk6" | jq -r .e04136 | /bin/bash
 
       - name: Persist results
         if: always()
